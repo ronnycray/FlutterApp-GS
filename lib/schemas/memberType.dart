@@ -1,0 +1,1 @@
+enum MemberType { OWNER, STAFF }
